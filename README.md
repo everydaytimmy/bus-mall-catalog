@@ -1,3 +1,3 @@
 # bus-mall-catalog
 
-Pair Partner : Tim Viccari
+Pair Partner : Kyle Hoac
